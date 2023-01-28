@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = gh api ...karim.hammouche1995@gmail.com
-	name = karimhammouche gh api ...karim.hammouche1995@gmail.com
+	email = code ~/.zshrc
+	name = exec zsh
