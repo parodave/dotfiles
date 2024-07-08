@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = code ~/.zshrc
-	name = exec zsh
+	email = @users.noreply.github.com
+	name = paro dave
